@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.a8089509.css",
-    "main.js": "/static/js/main.56bbd5ac.js",
-    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
-    "static/media/image.png": "/static/media/image.edb7222e45740927d32b.png",
-    "static/media/epos-normal.otf": "/static/media/epos-normal.003c3a3171c02b0afcea.otf",
-    "static/media/EugustoFreePersonalUse-Regular.otf": "/static/media/EugustoFreePersonalUse-Regular.384873ad598d694c0446.otf",
-    "index.html": "/index.html",
-    "static/media/index.js": "/static/media/index.50d6c2c0ca0a146cfcff.js",
-    "main.a8089509.css.map": "/static/css/main.a8089509.css.map",
-    "main.56bbd5ac.js.map": "/static/js/main.56bbd5ac.js.map",
-    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/DeathProject/static/css/main.a22746d2.css",
+    "main.js": "/DeathProject/static/js/main.2590b34c.js",
+    "static/js/453.ed3810f9.chunk.js": "/DeathProject/static/js/453.ed3810f9.chunk.js",
+    "static/media/image.png": "/DeathProject/static/media/image.edb7222e45740927d32b.png",
+    "static/media/epos-normal.otf": "/DeathProject/static/media/epos-normal.003c3a3171c02b0afcea.otf",
+    "static/media/EugustoFreePersonalUse-Regular.otf": "/DeathProject/static/media/EugustoFreePersonalUse-Regular.384873ad598d694c0446.otf",
+    "index.html": "/DeathProject/index.html",
+    "static/media/index.js": "/DeathProject/static/media/index.50d6c2c0ca0a146cfcff.js",
+    "main.a22746d2.css.map": "/DeathProject/static/css/main.a22746d2.css.map",
+    "main.2590b34c.js.map": "/DeathProject/static/js/main.2590b34c.js.map",
+    "453.ed3810f9.chunk.js.map": "/DeathProject/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8089509.css",
-    "static/js/main.56bbd5ac.js"
+    "static/css/main.a22746d2.css",
+    "static/js/main.2590b34c.js"
   ]
 }
