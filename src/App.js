@@ -125,7 +125,7 @@ function chooseCategory(key) {
       <Header/>
       <div className="app-wrapper-content">
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="" element={<Home />} />
           <Route path="/Funeral" element={
             <Funeral 
               chooseCategory={chooseCategory}
